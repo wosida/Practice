@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\c语言编程\实验3\实验3\main.cpp(11,12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\c语言编程\实验3\实验3\main.cpp(53,46): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\c语言编程\实验3\实验3\main.cpp(53,41): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\c语言编程\实验3\实验3\main.cpp(131,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  实验3.vcxproj -> D:\c语言编程\实验3\x64\Debug\实验3.exe

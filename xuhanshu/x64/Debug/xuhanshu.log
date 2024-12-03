@@ -1,0 +1,8 @@
+﻿  class.cpp
+D:\c语言编程\xuhanshu\xuhanshu\class.h(43,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程\xuhanshu\xuhanshu\class.h(46,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+D:\c语言编程\xuhanshu\xuhanshu\class.h(43,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程\xuhanshu\xuhanshu\class.h(46,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  xuhanshu.vcxproj -> D:\c语言编程\xuhanshu\x64\Debug\xuhanshu.exe

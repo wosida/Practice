@@ -1,0 +1,4 @@
+﻿  源.c
+D:\c语言编程\爱心\爱心\源.c(5,34): warning C4305: “-=”: 从“double”到“float”截断
+D:\c语言编程\爱心\爱心\源.c(6,36): warning C4305: “+=”: 从“double”到“float”截断
+  爱心.vcxproj -> D:\c语言编程\爱心\x64\Debug\爱心.exe
